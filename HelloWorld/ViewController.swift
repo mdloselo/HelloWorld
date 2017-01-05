@@ -28,6 +28,7 @@ class ViewController: UIViewController {
         background.isHidden = false
         titleImage.isHidden = false
         welcomeButton.isHidden = true
+        welcomeButton.tintColor = UIColor.red
     }
 
 }
